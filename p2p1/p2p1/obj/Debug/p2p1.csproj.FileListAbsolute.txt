@@ -1,0 +1,8 @@
+C:\Users\nikit\source\repos\Ma1p0n\pp21\p2p1\p2p1\bin\Debug\p2p1.exe.config
+C:\Users\nikit\source\repos\Ma1p0n\pp21\p2p1\p2p1\bin\Debug\p2p1.exe
+C:\Users\nikit\source\repos\Ma1p0n\pp21\p2p1\p2p1\bin\Debug\p2p1.pdb
+C:\Users\nikit\source\repos\Ma1p0n\pp21\p2p1\p2p1\obj\Debug\p2p1.csproj.AssemblyReference.cache
+C:\Users\nikit\source\repos\Ma1p0n\pp21\p2p1\p2p1\obj\Debug\p2p1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikit\source\repos\Ma1p0n\pp21\p2p1\p2p1\obj\Debug\p2p1.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\Ma1p0n\pp21\p2p1\p2p1\obj\Debug\p2p1.exe
+C:\Users\nikit\source\repos\Ma1p0n\pp21\p2p1\p2p1\obj\Debug\p2p1.pdb
