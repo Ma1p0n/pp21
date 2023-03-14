@@ -12,6 +12,7 @@ namespace p2p1
         {
             int a = Convert.ToInt32(Console.ReadLine());
             int b = Convert.ToInt32(Console.ReadLine());
+
             int sum = a + b;
             int diff = sum - b;
             int mult = a * b;
